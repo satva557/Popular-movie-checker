@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://satva557.github.io/Popular-movie-checker",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
